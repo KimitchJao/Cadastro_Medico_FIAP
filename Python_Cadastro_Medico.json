@@ -1,0 +1,45 @@
+{
+  "medicos": [
+    {
+      "nome": "Dr Roberto Macchia",
+      "ocupacao": "Ginecologista/Obstetra",
+      "procedimentos": [
+        {
+          "procedimento": "Laqueadura",
+          "estado": "SP"
+        }
+      ]
+    },
+    {
+      "nome": "Dra Jussara Freire",
+      "ocupacao": "Assistente",
+      "procedimentos": [
+        {
+          "procedimento": "Laqueadura (com Dr roberto macchia)",
+          "estado": "SP"
+        }
+      ]
+    },
+    {
+      "nome": "Dr Tiago Lauer",
+      "ocupacao": "Ginecologista/Obstetra",
+      "procedimentos": [
+        {
+          "procedimento": "Parto Ces\u00e1riano",
+          "estado": "SC"
+        }
+      ]
+    },
+    {
+      "nome": "Dr Joao",
+      "ocupacao": "Ginecologista",
+      "procedimentos": [
+        {
+          "procedimento": "Laqueadura",
+          "estado": "CE"
+        }
+      ]
+    }
+  ],
+  "procedimentos": []
+}
